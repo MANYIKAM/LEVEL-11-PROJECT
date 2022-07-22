@@ -1,0 +1,7 @@
+!DOCTYPE html>
+<html>
+    <head>
+        <title>microverse Collaboration Project</title>
+    </head>
+    <body>Hello World!<p>how are you?</p> </body>
+</html>
